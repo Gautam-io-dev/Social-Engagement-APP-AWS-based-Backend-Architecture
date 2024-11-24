@@ -5,7 +5,6 @@
 This diagram represents an AWS-based architecture designed for a mobile application leveraging managed cloud services. 
 Below is a breakdown of the architecture components and their purposes:
 
-This diagram represents an **AWS-based architecture** designed for a mobile application leveraging managed cloud services. Below is a breakdown of the architecture components and their purposes:
 
 ---
 
