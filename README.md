@@ -1,5 +1,7 @@
 # Social-Engagement-APP-AWS-based-Backend-Architecture
 
+![image alt](https://github.com/Gautam-io-dev/Social-Engagement-APP-AWS-based-Backend-Architecture/blob/e62fe5db01391804d59f5f75785c8be173f3debe/Untitled%20Diagram.jpg)
+
 This diagram represents an AWS-based architecture designed for a mobile application leveraging managed cloud services. 
 Below is a breakdown of the architecture components and their purposes:
 
